@@ -1,5 +1,5 @@
 {
-  "team_name": "Starlight AI",
+  "team_name": "Starlight_AI",
   "project_name": "Redrob Intelligent Candidate Ranking System",
   "approach": "Hybrid candidate ranking system combining rule-based retrieval, behavioral signal analysis, explainable scoring, and semantic reranking using Sentence Transformers.",
   "dataset_size": 100000,
