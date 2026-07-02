@@ -131,3 +131,7 @@ Approximately 1 minute to process and rank 100,000 candidate profiles using the 
 - Vector Database Integration
 - Real-time Ranking API
 - Recruiter Feedback Loop
+
+## Single command in README
+
+python ranker.py
