@@ -135,3 +135,7 @@ Approximately 1 minute to process and rank 100,000 candidate profiles using the 
 ## Single command in README
 
 python ranker.py
+
+## Sandbox Link
+
+https://colab.research.google.com/drive/1GF7KIsZJZP-uFnmOUMUEocUMUeLs5oFV?usp=sharing
