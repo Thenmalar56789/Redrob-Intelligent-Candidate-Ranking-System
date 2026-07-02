@@ -1,0 +1,18 @@
+team_name: Starlight_AI
+project_name: Redrob Intelligent Candidate Ranking System
+
+github_repo: https://github.com/Thenmalar56789/Redrob-Intelligent-Candidate-Ranking-System
+
+sandbox_link: https://colab.research.google.com/drive/1GF7KIsZJZP-uFnmOUMUEocUMUeLs5oFV
+
+dataset_size: 100000
+
+models_used:
+  - all-MiniLM-L6-v2
+
+compute_environment: Windows 11, Python 3.14, CPU only
+
+ai_tools_used:
+  - ChatGPT
+
+methodology: Two-stage ranking pipeline using rule-based candidate scoring followed by semantic reranking using sentence-transformer embeddings.
