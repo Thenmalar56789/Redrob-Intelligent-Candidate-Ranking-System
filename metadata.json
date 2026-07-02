@@ -1,0 +1,21 @@
+{
+  "team_name": "Starlight AI",
+  "project_name": "Redrob Intelligent Candidate Ranking System",
+  "approach": "Two-stage ranking pipeline with rule-based retrieval and semantic reranking",
+  "dataset_size": 100000,
+  "runtime": "CPU only",
+  "models_used": [
+    "all-MiniLM-L6-v2"
+  ],
+  "features": [
+    "JD Skill Match",
+    "Behavioral Signals",
+    "Recruiter Demand Signals",
+    "Availability Signals",
+    "Assessment Signals",
+    "Learning Potential",
+    "Adaptability Detection",
+    "Career Transition Detection",
+    "Semantic Reranking"
+  ]
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/candidates.jsonl
+output/detailed_results.csv
